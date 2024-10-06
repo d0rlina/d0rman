@@ -20,8 +20,8 @@ namespace практика_2._0
             InitializeComponent();
 
         }
-
-
+/*лишняя пустая строка*/
+/*неизвестная кнопка*/
         private void button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
@@ -58,8 +58,8 @@ namespace практика_2._0
 
 
 
-
-
+/*лишние пустые строки*/
+/*неизвестная кнопка*/
         private void button3_Click(object sender, EventArgs e)
         {
             string connectionString = "Server=localhost;Database=ple;User ID=root;Password=D0rlina060720;";
@@ -90,19 +90,19 @@ namespace практика_2._0
                 }
             }
         }
-
+/*неизвестная кнопка*/
         private void button4_Click(object sender, EventArgs e)
         {
 
             this.Close();
 
         }
-
+/*ненужея строка, которая ничего не хранит*/
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
-
+/*неизвестная кнопка*/
         private void button3_Click_1(object sender, EventArgs e)
         {
             string connectionString = "Server=localhost;Database=dorman;User ID=root;Password=D0rlina060720;";
