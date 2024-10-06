@@ -7,12 +7,12 @@ namespace практика_2._0
         {
             InitializeComponent();
         }
-
+/*строка, хранящая в себе ничего*/
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
-
+/*прописано название кнопки*/
         private void войти_Click(object sender, EventArgs e)
         {
             string connectionString = "Server=localhost;Database=dorman;User ID=root;Password=D0rlina060720;";
@@ -54,7 +54,6 @@ namespace практика_2._0
                 manager f = new manager();
                 f.ShowDialog();
             }
-
         }
         private string GetUsernameByPassword(string password, string login, string connectionString)
         {
@@ -79,7 +78,7 @@ namespace практика_2._0
                 }
             }
         }
-
+/*строка, хранящая в себе ничего*/
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
