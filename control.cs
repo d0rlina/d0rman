@@ -20,17 +20,17 @@ namespace практика_2._0
             InitializeComponent();
         }
 
-        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+    /*лишняя строчка*/    private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
 
         }
-
+/*неизвестная кнопка*/
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        /*неизвестная кнопка*/private void button1_Click(object sender, EventArgs e)
         {
             string connectionString = "Server=localhost;Database=dorman;User ID=root;Password=D0rlina060720;";
             string password = textBox1.Text;
@@ -63,12 +63,12 @@ namespace практика_2._0
                 }
             }
         }
-
+/*неизвестная кнопка*/
         private void button3_Click(object sender, EventArgs e)
         {
             this.Close();
         }
-
+/*неизвестная кнопка*/
         private void button2_Click_1(object sender, EventArgs e)
         {
             this.Hide();
