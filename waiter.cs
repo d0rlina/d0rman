@@ -17,7 +17,7 @@ namespace практика_2._0
         {
             InitializeComponent();
         }
-
+-       /*неизвестная кнопка*/
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Name = "Посмтреть заказы";
@@ -42,7 +42,7 @@ namespace практика_2._0
 
             }
         }
-
+-       /*неизвестная кнопка*/
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
