@@ -18,12 +18,12 @@ namespace практика_2._0
         {
             InitializeComponent();
         }
-
+/*ненужная строка*/
         private void tabControl2_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
-
+/*неизвестная кнопка*/
         private void button10_Click(object sender, EventArgs e)
         {
             string connectionString = "Server=localhost;Database=dorman;User ID=root;Password=D0rlina060720;";
@@ -56,7 +56,7 @@ namespace практика_2._0
                 }
             }
         }
-
+/*неизвестная кнопка*/
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -64,7 +64,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button9_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -72,7 +72,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button8_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -80,7 +80,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button7_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -88,7 +88,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+        /*неизвестная кнопка*/
         private void button6_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -96,7 +96,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button5_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -104,7 +104,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button4_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -112,7 +112,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
@@ -120,7 +120,7 @@ namespace практика_2._0
             f.ShowDialog();
             button1.BackColor = Color.Red;
         }
-
+/*неизвестная кнопка*/
         private void button2_Click(object sender, EventArgs e)
         {
             this.Hide();
