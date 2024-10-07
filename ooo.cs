@@ -16,7 +16,7 @@ namespace практика_2._0
         {
             InitializeComponent();
         }
-
+/*неиспользованное окно*/
         private void ooo_Load(object sender, EventArgs e)
         {
 
